@@ -1,6 +1,6 @@
 # Route Recommendation System (In development)
 
-A comprehensive route recommendation system for Timişoara, Romania that provides personalized route suggestions based on user preferences, traffic conditions, and Points of Interest (POIs).
+A comprehensive route recommendation system for that provides personalized route suggestions based on user preferences, traffic conditions, and Points of Interest (POIs).
 
 ## Overview
 
