@@ -1,0 +1,5 @@
+Pipfile
+Pipfile.lock
+backend/src/models/__pycache__
+backend/src/data/__pycache__
+backend/src/data/cache

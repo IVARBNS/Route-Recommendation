@@ -1,0 +1,16 @@
+{
+  "user_id": "6de5a7b8-7b34-4878-a3d4-588fa61a4aac",
+  "created_at": "2026-02-05T18:10:01.372899",
+  "preferences": {
+    "time": 0.5,
+    "safety": 0.3,
+    "scenery": 0.2
+  },
+  "constraints": {
+    "max_time": null,
+    "max_distance": null,
+    "avoid_highways": false,
+    "prefer_bike_lanes": false
+  },
+  "history": []
+}
